@@ -2,7 +2,6 @@
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
 
-
 #define WIDTH 128
 #define HEIGHT 64
 
